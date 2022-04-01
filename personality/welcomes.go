@@ -38,5 +38,5 @@ func init() {
 func RandomWelcome() string {
 	s := rand.NewSource(time.Now().UnixNano())
 	r := rand.New(s)
-	return welcomes[r.Intn(len(footers))]
+	return welcomes[r.Intn(len(welcomes))]
 }
