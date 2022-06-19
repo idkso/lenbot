@@ -4,7 +4,7 @@
 				"hello <@%s>, talk if not gay",
 				"hi <@%s>, leave if u play league",
 				"<@%s> u r gay, also welcome",
-				"lol ur a loser <%s> jk welcome",
+				"lol ur a loser <@%s> jk welcome",
 				"<@%s> lick my bals jkjkjkjk hi welcome"
 		]
 }
